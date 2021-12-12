@@ -1,0 +1,51 @@
+Created by yasinakca on 11.12.2021
+
+# Case1
+* Close the popup on the main page
+* Close the ad on main page
+* User clicks location button
+* "1" saniye bekle
+* User selects province
+* Scroll down for province
+* User selects Istanbul province
+* User selects town
+* USer selects akyurt town
+* User selects district
+* User selects Ataturk district
+* User clicks save button
+* User clicks category tab
+* User clicks popular category
+* User clicks men wears
+* User checks province title
+* "1" saniye bekle
+
+#Case2
+* Close the popup on the main page
+* Close the ad on main page
+* Scroll down for SuperFiyat
+* "1" saniye bekle
+* User clicks for super product
+* User clicks product image
+* "SAĞ" yönüne swipe et
+* User clicks the close image button
+* "1" saniye bekle
+* User adds product to favorite
+* "2" saniye bekle
+* User fills email field
+* "1" saniye bekle
+* User clicks login button
+* "1" saniye bekle
+* User fills password field
+* User clicks password login button
+* "1" saniye bekle
+* User clicks welcome button
+//* Close the ad on main page
+* "2" saniye bekle
+* Turn back
+* "1" saniye bekle
+* User clicks Kesfet button
+* User clicks account icon
+* "1" saniye bekle
+* User clicks liked products
+* "1" saniye bekle
+* Check product added into liked products

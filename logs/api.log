@@ -1,0 +1,151 @@
+12-12-2021 10:49:40.550 [Gauge] [INFO] Initializing concepts cache with 2 concepts
+12-12-2021 10:49:40.550 [Gauge] [DEBUG] Adding concepts from /Users/yasinakca/Desktop/hepsiburadaLast/specs/hepsiburada.cpt
+12-12-2021 10:49:40.550 [Gauge] [DEBUG] Adding concepts from /Users/yasinakca/Desktop/hepsiburadaLast/specs/hepsiburada.cpt
+12-12-2021 10:49:40.551 [Gauge] [INFO] Initializing specs cache with 1 specs
+12-12-2021 10:49:40.551 [Gauge] [DEBUG] Adding specs from /Users/yasinakca/Desktop/hepsiburadaLast/specs/hepsiburada.spec
+12-12-2021 10:49:40.551 [Gauge] [INFO] Initializing steps cache with 2 steps
+12-12-2021 10:49:40.551 [Gauge] [INFO] Gauge daemon initialized and listening on port: 59961
+12-12-2021 10:49:40.552 [Gauge] [DEBUG] Watching directory: /Users/yasinakca/Desktop/hepsiburadaLast/specs
+12-12-2021 10:49:40.552 [Gauge] [DEBUG] Found 2 files
+12-12-2021 10:50:18.912 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"User clicks location button"}
+12-12-2021 10:50:18.912 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"User clicks location button" parameterizedStepValue:"User clicks location button"}}
+12-12-2021 10:50:18.972 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<saniye> saniye bekle"}
+12-12-2021 10:50:18.972 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} saniye bekle" parameterizedStepValue:"<saniye> saniye bekle" parameters:"saniye"}}
+12-12-2021 10:50:18.973 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Turn back"}
+12-12-2021 10:50:18.973 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Turn back" parameterizedStepValue:"Turn back"}}
+12-12-2021 10:50:18.973 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"User clicks liked products"}
+12-12-2021 10:50:18.974 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"User clicks liked products" parameterizedStepValue:"User clicks liked products"}}
+12-12-2021 10:50:18.974 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"User clicks category tab"}
+12-12-2021 10:50:18.974 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"User clicks category tab" parameterizedStepValue:"User clicks category tab"}}
+12-12-2021 10:50:18.974 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"User clicks popular category"}
+12-12-2021 10:50:18.974 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"User clicks popular category" parameterizedStepValue:"User clicks popular category"}}
+12-12-2021 10:50:18.974 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"User clicks men wears"}
+12-12-2021 10:50:18.974 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"User clicks men wears" parameterizedStepValue:"User clicks men wears"}}
+12-12-2021 10:50:18.975 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"User checks province title"}
+12-12-2021 10:50:18.975 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"User checks province title" parameterizedStepValue:"User checks province title"}}
+12-12-2021 10:50:19.079 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Close the popup on the main page"}
+12-12-2021 10:50:19.079 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Close the popup on the main page" parameterizedStepValue:"Close the popup on the main page"}}
+12-12-2021 10:50:19.083 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"User selects province"}
+12-12-2021 10:50:19.083 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"User selects province" parameterizedStepValue:"User selects province"}}
+12-12-2021 10:50:19.083 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Scroll down for province"}
+12-12-2021 10:50:19.083 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Scroll down for province" parameterizedStepValue:"Scroll down for province"}}
+12-12-2021 10:50:19.084 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"User selects Istanbul province"}
+12-12-2021 10:50:19.084 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"User selects Istanbul province" parameterizedStepValue:"User selects Istanbul province"}}
+12-12-2021 10:50:19.084 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"User selects town"}
+12-12-2021 10:50:19.084 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"User selects town" parameterizedStepValue:"User selects town"}}
+12-12-2021 10:50:19.085 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"USer selects akyurt town"}
+12-12-2021 10:50:19.085 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"USer selects akyurt town" parameterizedStepValue:"USer selects akyurt town"}}
+12-12-2021 10:50:19.085 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"User selects district"}
+12-12-2021 10:50:19.085 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"User selects district" parameterizedStepValue:"User selects district"}}
+12-12-2021 10:50:19.086 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"User selects Ataturk district"}
+12-12-2021 10:50:19.086 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"User selects Ataturk district" parameterizedStepValue:"User selects Ataturk district"}}
+12-12-2021 10:50:19.086 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"User clicks save button"}
+12-12-2021 10:50:19.086 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"User clicks save button" parameterizedStepValue:"User clicks save button"}}
+12-12-2021 10:50:19.087 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Scroll down for SuperFiyat"}
+12-12-2021 10:50:19.087 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Scroll down for SuperFiyat" parameterizedStepValue:"Scroll down for SuperFiyat"}}
+12-12-2021 10:50:19.087 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"User clicks for super product"}
+12-12-2021 10:50:19.088 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"User clicks for super product" parameterizedStepValue:"User clicks for super product"}}
+12-12-2021 10:50:19.088 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"User clicks Kesfet button"}
+12-12-2021 10:50:19.088 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"User clicks Kesfet button" parameterizedStepValue:"User clicks Kesfet button"}}
+12-12-2021 10:50:19.088 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"User clicks account icon"}
+12-12-2021 10:50:19.088 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"User clicks account icon" parameterizedStepValue:"User clicks account icon"}}
+12-12-2021 10:50:19.089 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Check product added into liked products"}
+12-12-2021 10:50:19.089 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Check product added into liked products" parameterizedStepValue:"Check product added into liked products"}}
+12-12-2021 10:50:19.089 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"User fills email field"}
+12-12-2021 10:50:19.089 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"User fills email field" parameterizedStepValue:"User fills email field"}}
+12-12-2021 10:50:19.090 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"User clicks login button"}
+12-12-2021 10:50:19.090 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"User clicks login button" parameterizedStepValue:"User clicks login button"}}
+12-12-2021 10:50:19.090 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"User fills password field"}
+12-12-2021 10:50:19.090 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"User fills password field" parameterizedStepValue:"User fills password field"}}
+12-12-2021 10:50:19.091 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"User clicks password login button"}
+12-12-2021 10:50:19.091 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"User clicks password login button" parameterizedStepValue:"User clicks password login button"}}
+12-12-2021 10:50:19.092 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Close the ad on main page"}
+12-12-2021 10:50:19.092 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Close the ad on main page" parameterizedStepValue:"Close the ad on main page"}}
+12-12-2021 10:50:19.097 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"\"1\" saniye bekle"}
+12-12-2021 10:50:19.098 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} saniye bekle" parameterizedStepValue:"<1> saniye bekle" parameters:"1"}}
+12-12-2021 10:50:19.145 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"User clicks product image"}
+12-12-2021 10:50:19.145 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"User clicks product image" parameterizedStepValue:"User clicks product image"}}
+12-12-2021 10:50:19.149 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"\"SAĞ\" yönüne swipe et"}
+12-12-2021 10:50:19.149 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} yönüne swipe et" parameterizedStepValue:"<SAĞ> yönüne swipe et" parameters:"SAĞ"}}
+12-12-2021 10:50:19.152 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"<yön> yönüne swipe et"}
+12-12-2021 10:50:19.153 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} yönüne swipe et" parameterizedStepValue:"<yön> yönüne swipe et" parameters:"yön"}}
+12-12-2021 10:50:19.154 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"User clicks the close image button"}
+12-12-2021 10:50:19.154 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"User clicks the close image button" parameterizedStepValue:"User clicks the close image button"}}
+12-12-2021 10:50:19.158 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"User adds product to favorite"}
+12-12-2021 10:50:19.158 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"User adds product to favorite" parameterizedStepValue:"User adds product to favorite"}}
+12-12-2021 10:50:19.163 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"\"2\" saniye bekle"}
+12-12-2021 10:50:19.163 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"{} saniye bekle" parameterizedStepValue:"<2> saniye bekle" parameters:"2"}}
+12-12-2021 10:50:19.181 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"User clicks welcome button"}
+12-12-2021 10:50:19.181 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"User clicks welcome button" parameterizedStepValue:"User clicks welcome button"}}
+12-12-2021 10:50:22.390 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Case1"}
+12-12-2021 10:50:22.390 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Case1" parameterizedStepValue:"Case1"}}
+12-12-2021 10:50:22.517 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:" Case1"}
+12-12-2021 10:50:22.517 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Case1" parameterizedStepValue:"Case1"}}
+12-12-2021 10:50:22.694 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Case2"}
+12-12-2021 10:50:22.694 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Case2" parameterizedStepValue:"Case2"}}
+12-12-2021 10:54:04.489 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* Close the popup on the main page"}
+12-12-2021 10:54:04.490 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* Close the popup on the main page" parameterizedStepValue:"* Close the popup on the main page"}}
+12-12-2021 10:54:04.490 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* Close the ad on main page"}
+12-12-2021 10:54:04.490 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* Close the ad on main page" parameterizedStepValue:"* Close the ad on main page"}}
+12-12-2021 10:54:04.491 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* User clicks location button"}
+12-12-2021 10:54:04.491 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* User clicks location button" parameterizedStepValue:"* User clicks location button"}}
+12-12-2021 10:54:04.491 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* \"1\" saniye bekle"}
+12-12-2021 10:54:04.491 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* {} saniye bekle" parameterizedStepValue:"* <1> saniye bekle" parameters:"1"}}
+12-12-2021 10:54:04.491 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* User selects province"}
+12-12-2021 10:54:04.491 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* User selects province" parameterizedStepValue:"* User selects province"}}
+12-12-2021 10:54:04.492 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* Scroll down for province"}
+12-12-2021 10:54:04.499 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* Scroll down for province" parameterizedStepValue:"* Scroll down for province"}}
+12-12-2021 10:54:04.501 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* User selects Istanbul province"}
+12-12-2021 10:54:04.501 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* User selects Istanbul province" parameterizedStepValue:"* User selects Istanbul province"}}
+12-12-2021 10:54:04.501 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* User selects town"}
+12-12-2021 10:54:04.501 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* User selects town" parameterizedStepValue:"* User selects town"}}
+12-12-2021 10:54:04.501 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* USer selects akyurt town"}
+12-12-2021 10:54:04.501 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* USer selects akyurt town" parameterizedStepValue:"* USer selects akyurt town"}}
+12-12-2021 10:54:04.502 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* User selects district"}
+12-12-2021 10:54:04.502 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* User selects district" parameterizedStepValue:"* User selects district"}}
+12-12-2021 10:54:04.502 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* User selects Ataturk district"}
+12-12-2021 10:54:04.502 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* User selects Ataturk district" parameterizedStepValue:"* User selects Ataturk district"}}
+12-12-2021 10:54:04.502 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* User clicks save button"}
+12-12-2021 10:54:04.503 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* User clicks save button" parameterizedStepValue:"* User clicks save button"}}
+12-12-2021 10:54:04.503 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* User clicks category tab"}
+12-12-2021 10:54:04.503 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* User clicks category tab" parameterizedStepValue:"* User clicks category tab"}}
+12-12-2021 10:54:04.503 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* User clicks popular category"}
+12-12-2021 10:54:04.503 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* User clicks popular category" parameterizedStepValue:"* User clicks popular category"}}
+12-12-2021 10:54:04.504 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* User clicks men wears"}
+12-12-2021 10:54:04.504 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* User clicks men wears" parameterizedStepValue:"* User clicks men wears"}}
+12-12-2021 10:54:04.504 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* User checks province title"}
+12-12-2021 10:54:04.504 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* User checks province title" parameterizedStepValue:"* User checks province title"}}
+12-12-2021 10:54:04.504 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* Scroll down for SuperFiyat"}
+12-12-2021 10:54:04.504 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* Scroll down for SuperFiyat" parameterizedStepValue:"* Scroll down for SuperFiyat"}}
+12-12-2021 10:54:04.505 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* User clicks for super product"}
+12-12-2021 10:54:04.505 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* User clicks for super product" parameterizedStepValue:"* User clicks for super product"}}
+12-12-2021 10:54:04.506 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* User clicks product image"}
+12-12-2021 10:54:04.506 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* User clicks product image" parameterizedStepValue:"* User clicks product image"}}
+12-12-2021 10:54:04.506 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* \"SAĞ\" yönüne swipe et"}
+12-12-2021 10:54:04.507 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* {} yönüne swipe et" parameterizedStepValue:"* <SAĞ> yönüne swipe et" parameters:"SAĞ"}}
+12-12-2021 10:54:04.507 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* User clicks the close image button"}
+12-12-2021 10:54:04.507 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* User clicks the close image button" parameterizedStepValue:"* User clicks the close image button"}}
+12-12-2021 10:54:04.508 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* User adds product to favorite"}
+12-12-2021 10:54:04.508 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* User adds product to favorite" parameterizedStepValue:"* User adds product to favorite"}}
+12-12-2021 10:54:04.509 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* \"2\" saniye bekle"}
+12-12-2021 10:54:04.509 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* {} saniye bekle" parameterizedStepValue:"* <2> saniye bekle" parameters:"2"}}
+12-12-2021 10:54:04.509 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* User fills email field"}
+12-12-2021 10:54:04.509 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* User fills email field" parameterizedStepValue:"* User fills email field"}}
+12-12-2021 10:54:04.509 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* User clicks login button"}
+12-12-2021 10:54:04.509 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* User clicks login button" parameterizedStepValue:"* User clicks login button"}}
+12-12-2021 10:54:04.512 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* User fills password field"}
+12-12-2021 10:54:04.512 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* User fills password field" parameterizedStepValue:"* User fills password field"}}
+12-12-2021 10:54:04.514 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* User clicks password login button"}
+12-12-2021 10:54:04.514 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* User clicks password login button" parameterizedStepValue:"* User clicks password login button"}}
+12-12-2021 10:54:04.514 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* User clicks welcome button"}
+12-12-2021 10:54:04.514 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* User clicks welcome button" parameterizedStepValue:"* User clicks welcome button"}}
+12-12-2021 10:54:04.514 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* Turn back"}
+12-12-2021 10:54:04.515 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* Turn back" parameterizedStepValue:"* Turn back"}}
+12-12-2021 10:54:04.515 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* User clicks Kesfet button"}
+12-12-2021 10:54:04.515 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* User clicks Kesfet button" parameterizedStepValue:"* User clicks Kesfet button"}}
+12-12-2021 10:54:04.515 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* User clicks account icon"}
+12-12-2021 10:54:04.515 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* User clicks account icon" parameterizedStepValue:"* User clicks account icon"}}
+12-12-2021 10:54:04.515 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* User clicks liked products"}
+12-12-2021 10:54:04.515 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* User clicks liked products" parameterizedStepValue:"* User clicks liked products"}}
+12-12-2021 10:54:04.516 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"* Check product added into liked products"}
+12-12-2021 10:54:04.516 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"* Check product added into liked products" parameterizedStepValue:"* Check product added into liked products"}}
